@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Today_I_Learned_/static/css/main.dec8c287.css",
+    "main.js": "/Today_I_Learned_/static/js/main.278f9d89.js",
+    "static/media/logo.png": "/Today_I_Learned_/static/media/logo.93be590b485e2b0a79cd.png",
+    "index.html": "/Today_I_Learned_/index.html",
+    "main.dec8c287.css.map": "/Today_I_Learned_/static/css/main.dec8c287.css.map",
+    "main.278f9d89.js.map": "/Today_I_Learned_/static/js/main.278f9d89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dec8c287.css",
+    "static/js/main.278f9d89.js"
+  ]
+}
